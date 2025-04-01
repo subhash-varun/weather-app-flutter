@@ -1,0 +1,13 @@
+name: weather_app
+description: A weather app using OpenWeatherMap API
+version: 1.0.0
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  http: ^1.1.0
+
+dev_dependencies:
+  pedantic: ^1.9.2
+  lints: ^5.0.0
