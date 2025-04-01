@@ -1,1 +1,1 @@
-A simple command-line application.
+A simple weather app using dart and open weather map api
